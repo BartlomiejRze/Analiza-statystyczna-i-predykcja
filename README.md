@@ -15,7 +15,7 @@ z Polynomial Features. W przypadku regresji, można użyć Polynomial Features d
 
 # Podsumowanie:
 
-![image](https://github.com/user-attachments/assets/b1695658-14ed-4e93-9798-ffde969abd17)
+![image](https://github.com/user-attachments/assets/8eec27fd-53d2-458c-befb-d17ecead7c6e)
 
 **Model uzyskał następujące wyniki:**
 zarówno MSE (~1340.5444) jaki i MAE (~24.8972) jest relatywnie wysokie i wskazuje na rozbieżności między prognozowanymi, a rzeczywistymi wartościami cen zestawów LEGO. 
